@@ -1,7 +1,6 @@
 # School_District_Analysis
 Analysis of School District Data 
 Using Python 
-# School_District_Analysis
 Working with Python and Anaconda
 Maria chief data scientist for school district. Her task is analyzing school data in a variety of formats. In this role her task is 
 provides insights of performance trends and insights. We are asked to help Maria with student funding and student standardized test data. School and district level. 

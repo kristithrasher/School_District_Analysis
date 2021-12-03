@@ -11,8 +11,9 @@ The purpose of this project is to aggregate data and show trends in school perfo
 
 ## Results  Use images and examples of your code if necessary to support your evidence.
 How is the district summary affected?
-- 
+- Shows a new Student Count. Went From 39170 to 38709 student count for summary.
 
+- Did not affect the percentages or score values for each school when your look at it rounded. 
 - 
 
 - 
@@ -26,18 +27,12 @@ How is the school summary affected?
 
 - 
 
-- 
-
-
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 -  
 
 - 
 
-- 
-
-- 
 
 How does replacing the ninth grade scores affect the following:
 

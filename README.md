@@ -5,10 +5,10 @@ This project contains analysis of school district Data provided to us by Maria. 
 
 Due to the evidence of academic dishonesty the school board asked for additional help to wants to uphold state-testing standards. We were asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the grades have been replaced for math and reading for Thomas high school ninth graders, we ran analysis on the updated school district analysis and compared the results. 
 
-### Purpose
+## Purpose
 The purpose of this project is to aggregate data and show trends in school performance responsible for analyzing school data. To analyze the difference when the Thomas High ninth grade scores were changed to NaNs. This will only help get the most relevant information for the school board. This project is designed to help school board and superintendent in making decisions with school budgets and priorities. 
 
-## Results  Use images and examples of your code if necessary to support your evidence.
+## Results  
 How is the district summary affected?
 - After extracting the Thomas High School ninth grade math and reading scores, there was not a real significant difference in the district summary data other than very small     percentage in data.
 ![district summary](https://user-images.githubusercontent.com/94208810/144725302-69f99866-48a1-4b03-81a2-12cd0dd95292.png)
